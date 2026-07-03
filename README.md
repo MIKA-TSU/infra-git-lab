@@ -1,4 +1,4 @@
-﻿GitHub Test
+GitHub Test
 
 ===
 
@@ -39,4 +39,9 @@
 This is my second branch.
 
 ## Git Learning
+
+
+
+Conflict A
+Conflict B
 
