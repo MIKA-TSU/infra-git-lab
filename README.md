@@ -43,4 +43,5 @@ This is my second branch.
 
 
 Conflict A
+Conflict B
 
